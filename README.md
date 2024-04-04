@@ -13,4 +13,5 @@
 - Grid
 
 
-Ссылка на проект:
+Ссылка на проект: https://github.com/Otteliya2035/POP-UP-and-blocks
+Ссылка на демо проекта: https://otteliya2035.github.io/POP-UP-and-blocks/
